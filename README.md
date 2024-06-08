@@ -13,11 +13,9 @@
 
 ## 올바른 자세 클래스 실행
 <img src="./model/tm02-2.png" alt="Image 2" width="300" height="300">
-<br>
 
 ## 바르지 못한 자세 클래스 실행
-![Image 3](./model/tm02-3.png)
-<br>
+<img src="./model/tm02-3.png" alt="Image 3" width="300" height="300"><br>
 
 ## 일어난 자세 클래스 실행
-![Image 4](./model/tm02-4.png)
+<img src="./model/tm02-4.png" alt="Image 4" width="300" height="300">
