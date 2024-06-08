@@ -5,7 +5,7 @@
 <br>
 
 ## 실행 화면
-<img src="./model/tm02-1.png" alt="Image 1" width="500" height="200">
+<img src="./model/tm02-1.png" alt="Image 1" width="800" height="500">
 <br>
 2. 전환된 화면에서 확인하기 버튼을 클릭 시 -> 카메라 허용 여부를 물어봄  <br>
 3. 허용 을 누를 시 실시간으로 기기와 연결된 카메라로 실시간 녹화를 하며 프로그램이 작동  <br>
