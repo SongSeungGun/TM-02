@@ -14,10 +14,16 @@
 4. 자세에 따라 비중이 달라지는데 [ 0.5 ] 즉 50% 가 넘어가면 해당 실행되는 클래스에 따라 배경색이 자동으로 변경  <br>
 
 ## 올바른 자세 클래스 실행
+<p align="center">
 <img src="./model/tm02-2.png" alt="Image 2" width="300" height="300">
+</p>
 
 ## 바르지 못한 자세 클래스 실행
+<p align="center">
 <img src="./model/tm02-3.png" alt="Image 3" width="300" height="300"><br>
+</p>
 
 ## 일어난 자세 클래스 실행
+<p align="center">
 <img src="./model/tm02-4.png" alt="Image 4" width="300" height="300">
+</p>
