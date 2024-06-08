@@ -1,7 +1,7 @@
 # 현재 자세 상태를 판별하느 프로그램
 <div align="center">
 <a href="https://songseunggun.github.io/TM-02/"> 프로그램 실행 </a>
-<br>
+<br><br>
 1. 위 텍스트를 클릭 시 프로그램 실행화면으로 전환
 </div>
 
